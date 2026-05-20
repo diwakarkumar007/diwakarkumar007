@@ -6,9 +6,7 @@
 - Learning Backend & DSA
   ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
 
 ## 🛠️ Tech Stack
